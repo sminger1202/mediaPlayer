@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\yp_investigate_arrow_right.png",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\drawable-xlarge-v4\\yp_investigate_arrow_right.png"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\plugin_ad_more_youku.png",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\drawable-xlarge-v4\\plugin_ad_more_youku.png"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\yp_investigate_bg.9.png",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\drawable-xlarge-v4\\yp_investigate_bg.9.png"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\yp_investigate_close.png",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\drawable-xlarge-v4\\yp_investigate_close.png"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\plugin_ad_gofull_youku.png",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\drawable-xlarge-v4\\plugin_ad_gofull_youku.png"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-v4\\plugin_ad_gosmall_youku.png",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\drawable-xlarge-v4\\plugin_ad_gosmall_youku.png"
+    }
+]

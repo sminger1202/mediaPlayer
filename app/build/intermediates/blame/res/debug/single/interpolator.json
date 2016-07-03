@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\yp_decelerate_quint.xml",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\interpolator\\yp_decelerate_quint.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\yp_accelerate_quint.xml",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\interpolator\\yp_accelerate_quint.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\yp_decelerate_cubic.xml",
+        "source": "E:\\PlayerDemo\\app\\build\\intermediates\\exploded-aar\\PlayerDemo.Library\\YoukuPlayer\\unspecified\\res\\interpolator\\yp_decelerate_cubic.xml"
+    }
+]
