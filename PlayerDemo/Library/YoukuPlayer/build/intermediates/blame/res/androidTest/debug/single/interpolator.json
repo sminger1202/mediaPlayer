@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\yp_decelerate_quint.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\bundles\\debug\\res\\interpolator\\yp_decelerate_quint.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\yp_accelerate_quint.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\bundles\\debug\\res\\interpolator\\yp_accelerate_quint.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\yp_decelerate_cubic.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\bundles\\debug\\res\\interpolator\\yp_decelerate_cubic.xml"
+    }
+]

@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_detail_loading_info_page.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_detail_loading_info_page.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_detail_play_end_page.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_detail_play_end_page.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_youku_dialog_normal.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_youku_dialog_normal.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_youku_dialog_picker.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_youku_dialog_picker.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\unicom_notify_dialog.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\unicom_notify_dialog.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_detail_play_title.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_detail_play_title.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_tudou.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_tudou.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\unicom_unsubscribe_dialog.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\unicom_unsubscribe_dialog.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_view.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_view.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_pause_youku_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_pause_youku_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_image_youku_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_image_youku_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_pause_tudou_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_pause_tudou_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\unicom_order_dialog.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\unicom_order_dialog.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_youku_dialog_normal.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_youku_dialog_normal.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_youku.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_youku.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_youku_dialog_password_interact.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_youku_dialog_password_interact.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_webview_custom_title.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_webview_custom_title.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_detail_bottom_play_control.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_detail_bottom_play_control.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_ad_activity_webview.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_ad_activity_webview.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_detail_play_loading.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_detail_play_loading.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_investigate_youku.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_investigate_youku.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_plugin_detail_play_interact.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_plugin_detail_play_interact.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_detail_retry.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_detail_retry.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_image_youku_html5_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_image_youku_html5_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_tudou_encrypt_dialog.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_tudou_encrypt_dialog.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_plugin_image_ad.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_plugin_image_ad.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\unicom_smsnumber_dialog.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\unicom_smsnumber_dialog.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_plugin_player_popup_ad.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_plugin_player_popup_ad.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_player_ad_image_tudou_container.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_player_ad_image_tudou_container.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_plugin_paytip.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_plugin_paytip.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\yp_interaction_webview.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\layout\\yp_interaction_webview.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    }
+]

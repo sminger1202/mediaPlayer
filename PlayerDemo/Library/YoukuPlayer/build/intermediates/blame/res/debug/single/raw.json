@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\debug\\raw\\mediaplayer_configuration.xml",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\raw\\mediaplayer_configuration.xml"
+    },
+    {
+        "merged": "E:\\PlayerDemo\\Library\\YoukuPlayer\\build\\intermediates\\res\\merged\\debug\\raw\\aes.lua",
+        "source": "E:\\PlayerDemo\\Library\\YoukuPlayer\\res\\raw\\aes.lua"
+    }
+]
