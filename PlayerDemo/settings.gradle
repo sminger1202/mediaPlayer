@@ -1,3 +1,0 @@
-include ':app'
-include ':Library:BaseProject'
-include ':Library:YoukuPlayer'
